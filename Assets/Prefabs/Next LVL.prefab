@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4079494270108914906}
   - component: {fileID: 4079494270108914916}
   - component: {fileID: 4079494270108914917}
-  - component: {fileID: 8668348642383971479}
   m_Layer: 5
   m_Name: 'Text '
   m_TagString: Untagged
@@ -29,7 +28,6 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4079494270421244768}
   m_RootOrder: 0
@@ -81,20 +79,6 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 2
---- !u!114 &8668348642383971479
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4079494270108914907}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e9ba57214d032e43b7e7895b05782f1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Text: {fileID: 4079494270108914917}
-  Game: {fileID: 0}
 --- !u!1 &4079494270421244769
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,7 +107,6 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4079494270108914906}
   m_Father: {fileID: 0}
