@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bad Cube
+  - Cube 1
+  - Cube 2
+  - Cube 3
+  - Cube 4
+  - Cube 5
+  - Cube 10
+  - Cube 15
+  - Cube 20
+  - Cube 25
+  - Cube 30
+  - Cube 35
+  - Cube 40
+  - Cube 50
+  - Point 1
   layers:
   - Default
   - TransparentFX
